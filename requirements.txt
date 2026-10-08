@@ -1,0 +1,12 @@
+# Runtime; Python 3.10–3.12 recommended. Tk is supplied by Python/the OS.
+numpy==1.26.4
+scipy==1.13.1
+opencv-python==4.10.0.84
+Pillow==12.3.0
+# Postcard fonts, notebook and validation
+matplotlib==3.9.2
+nbformat==5.10.4
+nbclient==0.8.0
+ipykernel==6.28.0
+notebook==7.2.2
+pytest==7.4.4
